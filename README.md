@@ -1,4 +1,4 @@
-# 📊 Data Science Internship — Project 1
+#           Data Science Internship — Project 1
 ## Advanced EDA & Feature Engineering | Industrial Training Kit
 
 <div align="center">
